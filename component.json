@@ -1,0 +1,11 @@
+{
+  "name": "jQuery Unique element ID",
+  "repo": "jamierumbelow/jquery.unique-element-id",
+  "version": "1.0.0",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "jquery.unique-element-id.js"
+  ]
+}

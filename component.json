@@ -5,6 +5,7 @@
   "dependencies": {
     "component/jquery": "*"
   },
+  "main": "jquery.unique-element-id.js",
   "scripts": [
     "jquery.unique-element-id.js"
   ]
